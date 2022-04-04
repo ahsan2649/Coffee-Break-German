@@ -36,8 +36,6 @@
 |Wie heissen Sie?|What is your name?/How are you called?|
 |Ich heisse Nibir|I am called Nibir|
 |Mein name ist Hafsa|My name is Hafsa|
-|||
-|||
 
 
 ## Grammar notes
