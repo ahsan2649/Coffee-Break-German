@@ -12,9 +12,11 @@
 |Ja|Yes|
 |Nein|No|
 |Danke|Thank you|
+|Sehr|Very|
 |Gut|Good|
 |Schlecht|Bad|
 |Morgen|Morning|
+
 
 <br>
 <br>
@@ -25,7 +27,6 @@
 |German|English|
 |------|-------|
 |Bist du fertig?|Are you ready?|
-|Las uns anfangen|Let us begin|
 |Guten Morgen|Good morning|
 |Bis Morgen|See you in the morning|
 |Wie geht's?|How is it going?|
