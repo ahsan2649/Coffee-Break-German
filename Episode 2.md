@@ -13,11 +13,13 @@
 |Tag|Day|
 |Abend|Evening|
 |Nacht|Night|
-|||
-|||
-|||
-|||
-|||
+|Wie|How|
+|Heissen|To be called|
+|Richtig|Correct|
+|Mein|My|
+|Name|Name|
+|Ist|Is|
+
 
 ## Phrases
 |German|English|
@@ -31,9 +33,9 @@
 |Guten Tag|Good day|
 |Guten Abend|Good evening|
 |Gute Nacht|Good night|
-|||
-|||
-|||
+|Wie heissen Sie?|What is your name?/How are you called?|
+|Ich heisse Nibir|I am called Nibir|
+|Mein name ist Hafsa|My name is Hafsa|
 |||
 |||
 

@@ -16,6 +16,10 @@
 |Gut|Good|
 |Schlecht|Bad|
 |Morgen|Morning|
+|Ich|I|
+|Wie|How|
+
+
 
 
 <br>
